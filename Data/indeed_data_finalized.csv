@@ -1,1 +1,704 @@
-
+,job_titles,companies,company_ratings,locations,post_dates,Salary,Excel,Python,R,Java,Scala,C/C++,MATLAB,SAS,SQL/databases,Oracle,SPSS,Machine Learning,Data Mining/Analytics,Visualisation,Big Data,AWS Cloud,Jason,xml,Azure,Google Cloud,IBM,Operations research,DevOps,Git,presentation,management,agile,SDLC,decision making,problem solving,project_management,leadership,consulting
+0,Senior Data Scientist,MaxSold,3.6,,8 days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+1,"Data Scientist, Solar & Storage (Remote)",Power Factors,,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+2,Data Scientist,Charger Logistics Inc.,3.6,,3 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Junior Data Scientist with Python experience,Samiti Technology,,"Toronto, ON",Today,$250 - $350 a day,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Data Scientist,CakeAI,,"Toronto, ON",Today,,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+5,Staff Data Scientist - Interests,Twitter,4.1,"Toronto, ON",Just posted,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Data Scientist,Canadian National Railway,3.2,,22 days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+7,"Data Scientist, Remote",Infostrux Solutions,,"Quebec City, QC",16 days ago,,1,1,1,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+8,Data Scientist,Cardinal Path,,"Toronto, ON",Just posted,,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+9,Data Scientist,EnPowered,,"Kitchener, ON",14 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0
+10,Data Scientist,Bayer,4.2,"Mississauga, ON",Today,,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11,Data Scientist,Aviva,3.9,"Markham, ON",1 day ago,,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+12,Data Scientist/Bioinformatician,SickKids,4.2,"Toronto, ON",1 day ago,,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13,Data Scientist,Robert Half,3.9,,10 days ago,"$65,000 - $75,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Data Scientist Assistant – Business (6 month minimum),Ubisoft,3.9,"Montréal, QC",2 days ago,,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+15,Data Scientist Assistant – Business (6 month minimum),Ubisoft,3.9,"Montréal, QC",2 days ago,,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+16,Data Scientist,Robert Half,3.9,,10 days ago,"$65,000 - $75,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Data Scientist,Belcan,,,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Junior Data Scientist,Vessi,,"Vancouver, BC",7 days ago,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+19,Data Scientist,Ontario Medical Association,4.6,"Toronto, ON",4 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+20,Data Scientist,Nidish LLC,,Remote,25 days ago,$45 an hour,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Data Scientist - KTP Associate,University of Reading,,Ontario,7 days ago,,1,1,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+22,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+23,Data Scientist II,TD Bank,3.8,"Toronto, ON",2 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+24,Data Scientist/Machine Learning Engineer,Staffinity Inc.,4.5,,28 days ago,"$80,000 - $120,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Data Scientist,Bell Canada,3.9,"Don Mills, ON",1 day ago,,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,Data Scientist,Scotiabank,3.9,"Toronto, ON",9 days ago,,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+27,Data Scientist,EnPowered,,"Kitchener, ON",14 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0
+28,"Data Scientist, Account Management Automation",Square,3.6,"Toronto, ON",1 day ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+29,data scientist,BluVec Technologies INC,,"Surrey, BC",2 days ago,"$70,000 - $120,000 a year",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Data Scientist II,TD Bank,3.8,"Toronto, ON",2 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+31,data scientist,BluVec Technologies INC,,"Surrey, BC",2 days ago,"$70,000 - $120,000 a year",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Data Scientist,Grant Thornton,3.7,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Senior Data Scientist,ProNavigator,,"Kitchener, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+34,Data Scientist,MSi Corp (Bell Canada),3.6,"Montréal, QC",7 days ago,$35 an hour,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+35,Data Scientist,Microsoft,4.2,"Vancouver, BC",29 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+36,Data Scientist,Scotiabank,3.9,"Toronto, ON",9 days ago,,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+37,Data Scientist,Nidish LLC,,Remote,25 days ago,$45 an hour,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Data Scientist,Bell Canada,3.9,"Don Mills, ON",1 day ago,,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+39,Data Scientist,Innovation Credit Union,5.0,Canada,24 days ago,"$82,338 - $102,921 a year",0,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Data Scientist,Nakisa,2.9,"Montréal, QC",22 days ago,,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+41,DATA SCIENTIST,Temetrix,,"Ottawa, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+42,Data Scientist (Remote),Yelp,,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Applied Scientist (Remote),Yelp,,"Ottawa, ON",3 days ago,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Data Scientist,Maxa AI,,"Montréal, QC",30+ days ago,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Jr. Data Scientist,Pivotree,,"Kanata, ON",7 days ago,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+46,Junior Data Scientist,Profitable Software Inc.,,"Vancouver, BC",16 days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Data Scientist,Loblaw Companies Limited,3.5,"Brampton, ON",8 days ago,,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+48,Data Analytical Scientist,Samiti Technology,,"Toronto, ON",10 days ago,$50 - $60 an hour,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+49,Data Scientist,Paper,,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+50,Data scientist,Koïos Intelligence,,"Montréal, QC",30+ days ago,,1,1,1,1,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+51,Data Scientist,YORKVILLE UNIVERSITY & TORONTO FILM SCHOOL,,"North York, ON",30+ days ago,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+52,Data Scientist,Trader Corporation,3.5,"Toronto, ON",24 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+53,"Principal Data Scientist, Programmatic Bidding",Qool Media Holdings,,"Venice, AB",11 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+54,Data Scientist,Kinsol Research,,British Columbia,30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Data Scientist,METRIO,,"Montréal, QC",30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+56,Data Scientist,BRP,3.9,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+57,Applied Data Scientist,Comparative Inc.,,"Montréal, QC",22 days ago,"$50,000 a year",1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Data Scientist,Apply Digital,,"Vancouver, BC",10 days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Senior Product Data Scientist,Coffee Meets Bagel,,"Toronto, ON",7 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+60,"Data Scientist, Summer Student 2021 Opportunities",RBC,4.0,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+61,Data Scientist,YORKVILLE UNIVERSITY & TORONTO FILM SCHOOL,,"North York, ON",30+ days ago,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+62,Data Scientist,Trader Corporation,3.5,"Toronto, ON",24 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+63,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+64,Data Scientist (Machine Learning),Zesty.ai,,"Montréal, QC",30+ days ago,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+65,Data Scientist,Paper,,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+66,Senior Data Analyst,Wattpad,4.5,"Toronto, ON",Today,,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+67,Data Scientist,Nakisa,2.9,"Montréal, QC",22 days ago,,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+68,Data Scientist/Machine Learning Engineer,Staffinity Inc.,4.5,,28 days ago,"$80,000 - $120,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,"Data Scientist, Artificial Intelligence",Lululemon,4.2,"Vancouver, BC",7 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+70,Data scientist,Koïos Intelligence,,"Montréal, QC",30+ days ago,,1,1,1,1,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+71,"Manager, Data Science",Aviva,3.9,"Markham, ON",1 day ago,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+72,Machine Learning-Full-Time Summer- Internship,Prepr,3.0,"Toronto, ON",Today,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Senior Product Data Scientist,Coffee Meets Bagel,,"Toronto, ON",7 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+74,Data Scientist (Senior Economist),Farm Credit Canada,4.4,"Regina, SK",15 days ago,,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+75,Scientifique des données et appliqué/ Data & Applied Scientist,Microsoft,4.2,"Montréal, QC",28 days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+76,NLP Data Scientist,Arteria AI,,"Toronto, ON",11 days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+77,"Data Scientist, Supply Chain/Customer Profitability",Staples Canada,3.6,"Richmond Hill, ON",1 day ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,Data Scientist,Guestlogix,2.8,Remote,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+79,"Data Scientist, Artificial Intelligence",Lululemon,4.2,"Vancouver, BC",7 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+80,"Developer, Data Science",Bell Canada,3.9,"Mississauga, ON",Today,,0,1,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+81,Data Scientist,Thinking Capital,3.2,"Ottawa, ON",14 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,Machine Learning-Full-Time Summer- Internship,Prepr,3.0,"Toronto, ON",Today,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,"Data Scientist, Marketing & Web Analytics",Prodigy Game,4.6,,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Data Scientist,CGI Inc,3.6,"Sherbrooke, QC",4 days ago,,1,1,1,1,0,1,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1
+85,Senior Data Scientist,Hopper,,Canada,30+ days ago,,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,"Data Scientist: Pricing, Fraud, Monetization",Digital Extremes,5.0,"London, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+87,"Data Scientist, Account Management Automation",Square,3.6,"Toronto, ON",1 day ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+88,Data Scientist,"Amazon Web Services Canada, In",3.6,"Vancouver, BC",23 days ago,,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+89,NLP Developer,Valital Technologies Inc.,,"Montréal, QC",25 days ago,"$60,000 - $85,000 a year",0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+90,Data Scientist/Machine Learning Engineer,Staffinity Inc.,4.5,,28 days ago,"$80,000 - $120,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Data Scientist Expert / Data Scientist Expert,Groupe Neos,,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1
+92,"Director, Data & Analytics",Secret Location,4.3,"Toronto, ON",Today,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+93,Data Scientist,Index Exchange,3.5,"Toronto, ON",22 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+94,"Manager, Data Science Engineering",Aviva,3.9,"Markham, ON",1 day ago,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+95,Data Scientist,Torstar,3.8,"Toronto, ON",28 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+96,Senior Applied Research Scientist,ZeroKey,,"Calgary, AB",14 days ago,"$100,000 - $125,000 a year",1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+97,Data Scientist,Accedian Networks,3.6,"Ottawa, ON",30+ days ago,,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+98,Data Scientist,CGI Inc,3.6,"Sherbrooke, QC",4 days ago,,1,1,1,1,0,1,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1
+99,Data Scientist / Scientifique des données,agileDSS,,Remote,16 days ago,,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0
+100,Applied Research Scientist,Wenco (a Hitachi Subsidiary),,"Richmond, BC",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0
+101,Data Analyst,Cognizant Technology Solutions,3.9,"Mississauga, ON",7 days ago,,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Scientifique des données et appliqué/ Data & Applied Scientist,Microsoft,4.2,"Montréal, QC",28 days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+103,"Master, Data Scientist",Trader Corporation,3.5,"Toronto, ON",24 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+104,"Developer, Data Science",Bell Canada,3.9,"Mississauga, ON",Today,,0,1,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+105,Senior Data Analyst,Wattpad,4.5,"Toronto, ON",Today,,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+106,Data Scientist,Canadian Security Intelligence Service,4.4,"Ottawa, ON",30+ days ago,"$95,350 - $116,060 a year",0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+107,"Data Scientist: Pricing, Fraud, Monetization",Digital Extremes,5.0,"London, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+108,Data Scientist II,Mistplay,,"Montréal, QC",30+ days ago,,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Data Scientist,Peritus.ai,,"Montréal, QC",30+ days ago,,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+110,Applied Data Scientist,Geotab,3.4,"Oakville, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0
+111,Data Scientist,Geotab,3.4,"Oakville, ON",24 days ago,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,NLP Developer,Valital Technologies Inc.,,"Montréal, QC",25 days ago,"$60,000 - $85,000 a year",0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+113,Data Scientist (Senior Economist),Farm Credit Canada,4.4,"Regina, SK",15 days ago,,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+114,Data Scientist (Senior Economist),Financement agricole Canada,,"Regina, SK",15 days ago,,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+115,"Senior Data Scientist, GANs TORONTO, ONSOFTWARE",Tonal,,"Toronto, ON",23 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Lead Data Scientist,Peak Power,,"Toronto, ON",8 days ago,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0
+117,Data Analyst,Microsoft,4.2,"Vancouver, BC",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+118,"Senior Data Scientist, KPMG Lighthouse",KPMG,4.0,"Montréal, QC",22 days ago,,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+119,"Data Scientist, Summer 2021 Student Opportunities (8 Months Only)",RBC,4.0,Ontario,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+120,Data Scientist,Lightspark,,"Vancouver, BC",30+ days ago,,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+121,Data Scientist,Torstar,3.8,"Toronto, ON",28 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+122,Data Scientist,Canadian Security Intelligence Service,4.4,"Ottawa, ON",30+ days ago,"$95,350 - $116,060 a year",0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+123,Data Scientist II,Mistplay,,"Montréal, QC",30+ days ago,,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+125,Data Scientist,Auvik Networks,3.5,Ontario,30+ days ago,,1,1,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0
+126,Lead Data Scientist,Antuit.ai,,"Toronto, ON",15 days ago,,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+127,"Senior Data Scientist, KPMG Lighthouse",KPMG,4.0,"Montréal, QC",22 days ago,,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+128,Deep Learning Engineer (Computer Vision),DaoAI Robotics Inc.,,"Vancouver, BC",7 days ago,"$64,256 - $90,000 a year",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,Data Scientist,thinkCOMPASS,,"Vaughan, ON",30+ days ago,,1,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+130,"Data Scientist: Pricing, Fraud, Monetization",Digital Extremes,5.0,"London, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+131,Applied AI Scientist (Focus: Deep Learning and Computer Vision),"Thales Canada Inc., Research & Technology",,,22 days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0
+132,Sr Data Scientist,Moneris Solutions Corporation,3.6,"Etobicoke, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+133,Data Scientist,Robert Half,3.9,,10 days ago,"$65,000 - $75,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Senior Data Scientist,Instacart,2.9,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+135,Data Analyst,The Chapman Group,,"Fredericton, NB",11 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+136,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+137,Data Scientist / Senior Data Scientist - North American Integrated Analytics,Munich Re,4.0,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+138,Data Scientist,Ingrooves,,"Victoria, BC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+139,"Data Scientist, Summer 2021 Student Opportunities (8 Months Only)",RBC,4.0,Ontario,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+140,Machine Learning Scientist - Sequence Space,AbCellera Biologics,,"Vancouver, BC",3 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,Data Scientist,Huddle,,"Moncton, NB",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+142,Forward Deployed Data Scientist,Perpetua Labs,,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+143,Data Scientist,Robert Half,3.9,,10 days ago,"$65,000 - $75,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Machine Learning Engineer,Bio Conscious Technologies Inc,,"Vancouver, BC",3 days ago,"$70,000 - $119,802 a year",1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,Business Intelligence Data Developer,PHSA,,"Burnaby, BC",4 days ago,$39.67 an hour,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+146,Senior Data Scientist,BC IMC,,"Victoria, BC",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+147,Junior Computer Vision Engineer,Autometrics Manufacturing Technologies Inc,,"Vancouver, BC",5 days ago,"$70,000 a year",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,Data Scientist,Accedian Networks,3.6,"Ottawa, ON",30+ days ago,,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+149,Data Science,Cyber Chasse,,Canada,30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,Data Scientist,Manifest Climate,,"Toronto, ON",25 days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+151,Data Scientist,Rogers Communications,3.7,"Toronto, ON",24 days ago,,1,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+152,Machine Learning Developer Intern (4 months),IBM,3.9,"Calgary, AB",1 day ago,,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+153,"Senior Data Scientist, Product Analytics",TextNow,,Canada,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+154,Data Scientist,Kinaxis,4.0,"Toronto, ON",11 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+155,"Master, Data Scientist",Trader Corporation,3.5,"Toronto, ON",24 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+156,Data Scientist,fgf brands,3.7,"Greater Toronto Area, ON",30+ days ago,,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+157,Senior Machine Learning Scientist,Microsoft,4.2,"Vancouver, BC",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+158,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+159,Data Scientist,Torstar,3.8,"Toronto, ON",28 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+160,Data Science Co-op,Hach,,"Vancouver, BC",20 days ago,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+161,Senior Data Scientist,Amazon Dev Centre Canada ULC,3.6,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+162,Data Scientist,Robert Half,3.9,,10 days ago,"$65,000 - $75,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,Data Scientist,Auvik Networks,3.5,Ontario,30+ days ago,,1,1,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0
+164,Lead Data Scientist,Antuit.ai,,"Toronto, ON",15 days ago,,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+165,Data Scientist,Torstar,3.8,"Toronto, ON",28 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+166,Data Scientist Expert / Data Scientist Expert,Groupe Neos,,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1
+167,Data Scientist (AI/ML),OGGN Inc.,,Remote,30+ days ago,,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+168,Senior Data Scientist,SecurityScorecard,,Ontario,30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+169,Forward Deployed Data Scientist,Perpetua Labs,,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+170,"Master, Data Scientist",Trader Corporation,3.5,"Toronto, ON",24 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+171,Deep Learning Engineer (Computer Vision),DaoAI Robotics Inc.,,"Vancouver, BC",7 days ago,"$64,256 - $90,000 a year",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,Data Scientist,Peritus.ai,,"Montréal, QC",30+ days ago,,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0
+173,Data Scientist,Huddle,,"Moncton, NB",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+174,Junior Computer Vision Engineer,Autometrics Manufacturing Technologies Inc,,"Vancouver, BC",5 days ago,"$70,000 a year",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,Data Scientist,Geotab,3.4,"Oakville, ON",24 days ago,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,Data Scientist/Machine Learning Engineer,Staffinity Inc.,4.5,,28 days ago,"$80,000 - $120,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Data Science,Cyber Chasse,,Canada,30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,Senior Meter Data Analyst,Rodan Energy Solutions Inc.,3.3,"Mississauga, ON",3 days ago,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+179,Conversation Designers,MSi Corp (Bell Canada),3.6,"Toronto, ON",2 days ago,$50 an hour,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+180,Data Scientist,Wish,4.0,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,Machine Learning Engineer,Bio Conscious Technologies Inc,,"Vancouver, BC",3 days ago,"$70,000 - $119,802 a year",1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,"Senior Data Scientist, Decision Science",Coursera,4.3,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+183,Data Scientist,Brain Finance,,"Montréal, QC",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+184,"Team Leader, Data Analytics",Kent Building Supplies,2.8,"Saint John, NB",3 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+185,"Manager, Data Science, Audience Science",Ubisoft,3.9,"Montréal, QC",2 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+186,Senior Data Analyst,Jam City,,"Toronto, ON",2 days ago,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+187,Senior Data Scientist,Hopper,,Canada,30+ days ago,,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,"Senior Data Scientist, Machine Learning",Coursera,4.3,"Toronto, ON",30+ days ago,,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+189,Data Scientist,Stradigi AI,,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+190,Data Analyst,Lambton College,4.3,"Sarnia, ON",7 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0
+191,BI Engineer,Sonder,3.4,"Toronto, ON",1 day ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+192,Data Scientist,Services Conseils IntelliSoft inc.,,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+193,Data Scientist/Machine Learning Engineer,Staffinity Inc.,4.5,,28 days ago,"$80,000 - $120,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,Data Scientist,Fiddlehead,,"Moncton, NB",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+195,Machine Learning Engineer,Bio Conscious Technologies Inc,,"Vancouver, BC",3 days ago,"$70,000 - $119,802 a year",1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,Business Intelligence Data Developer,PHSA,,"Burnaby, BC",4 days ago,$39.67 an hour,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+197,Senior Data Scientist,BC IMC,,"Victoria, BC",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+198,Junior Computer Vision Engineer,Autometrics Manufacturing Technologies Inc,,"Vancouver, BC",5 days ago,"$70,000 a year",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,Data Scientist,Accedian Networks,3.6,"Ottawa, ON",30+ days ago,,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+200,Data Science,Cyber Chasse,,Canada,30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,Data Scientist,Cerebri AI,,"Toronto, ON",30+ days ago,,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+202,Product Manager – Data Science,Aviva,3.9,"Markham, ON",1 day ago,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+203,Machine Learning Developer Intern (4 months),IBM,3.9,"Calgary, AB",1 day ago,,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+204,Machine Learning Scientist,"Amazon.com.ca, Inc.",3.6,"Vancouver, BC",30+ days ago,,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+205,Data Analytics,Enterprise Solutions Inc,,,30+ days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+206,Data Scientist,Canadian National Railway,3.2,,22 days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+207,Data Scientist,Charger Logistics Inc.,3.6,,3 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,Senior Data Scientist,MaxSold,3.6,,8 days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+209,Senior Applied Research Scientist,ZeroKey,,,14 days ago,"$100,000 - $125,000 a year",1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+210,"Data Scientist, Solar & Storage (Remote)",Power Factors,,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+211,Clinical Trial Data Science Consultant,ProCogia,,,8 days ago,"$50,000 a year",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+212,Data Scientist,TELUS,4.0,"Calgary, AB",30+ days ago,,0,1,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0
+213,Senior Meter Data Analyst,Rodan Energy,,"Mississauga, ON",3 days ago,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+214,Data Science Manager - Marketplaces (Remote),Yelp,,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+215,"Data Scientist, Shopping",Pinterest,,"Toronto, ON",25 days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+216,"Director, Data & Analytics",Secret Location,4.3,"Toronto, ON",Today,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+217,Data Scientist,Cerebri AI,,"Toronto, ON",30+ days ago,,0,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+218,Data Scientist / Scientifique des données,agileDSS,,Remote,16 days ago,,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0
+219,Data Analyst,The Chapman Group,,"Fredericton, NB",11 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+220,Machine Learning Scientist - Sequence Space,AbCellera Biologics,,"Vancouver, BC",3 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,Data Scientist,Index Exchange,3.5,"Toronto, ON",22 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+222,Data Analytics,Enterprise Solutions Inc,,,30+ days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+223,Senior Data Scientist,MaxSold,3.6,,8 days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+224,Data Scientist,Charger Logistics Inc.,3.6,,3 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,"Data Scientist, Solar & Storage (Remote)",Power Factors,,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+226,"Data Scientist, Sales & Customer Success",Prodigy Game,4.6,,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,Data Scientist,Auvik Networks,3.5,Ontario,30+ days ago,,1,1,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0
+228,Lead Data Scientist,Antuit.ai,,"Toronto, ON",15 days ago,,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+229,Data Scientist,MightyHive,,"Toronto, ON",30+ days ago,,0,1,1,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+230,Deep Learning Engineer (Computer Vision),DaoAI Robotics Inc.,,"Vancouver, BC",7 days ago,"$64,256 - $90,000 a year",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,Data Scientist,Providence Health Care,4.1,"Vancouver, BC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+232,"Data Scientist: Pricing, Fraud, Monetization",Digital Extremes,5.0,"London, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+233,"Senior Data Scientist, Decision Science",Coursera,4.3,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+234,Senior Data Scientist,Instacart,2.9,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+235,Senior Data Scientist - QuantumBlack,McKinsey & Company,4.3,"Montréal, QC",30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+236,Data Scientist,Index Exchange,3.5,"Toronto, ON",22 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+237,Data Analytics,Enterprise Solutions Inc,,,30+ days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+238,Data Scientist,Canadian National Railway,3.2,,22 days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+239,Senior Applied Research Scientist,ZeroKey,,,14 days ago,"$100,000 - $125,000 a year",1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+240,Senior Data Scientist,MaxSold,3.6,,8 days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+241,Postdoctoral Fellow–UBC Master of Data Science program,UBC Master of Data Science,,,30+ days ago,"$80,000 - $90,000 a year",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+242,"Data Scientist, Solar & Storage (Remote)",Power Factors,,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+243,Data Scientist,Charger Logistics Inc.,3.6,,3 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,Machine Learning Engineer,IMRSV Data Labs,,"Ottawa, ON",30+ days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+245,Data Scientist - Ocean & the Environment,Global Spatial Technology Solutions Inc.,,"Dartmouth, NS",30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+246,Intermediate Machine Learning Engineer,TELUS,4.0,"Vancouver, BC",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0
+247,Data Scientist,Belcan,,,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,Data Scientist / Engineer,"LotusFlare, Inc.",,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+249,Applied Scientist,Amazon Dev Centre Canada ULC,3.6,"Vancouver, BC",15 days ago,,1,1,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+250,"Analyst, Data Science",Desjardins,3.9,"Montréal, QC",11 days ago,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+251,"Regional Senior Data Analyst - 2 Year Term - (Prince George, BC)",First Nations Health Authority,3.0,Canada,30+ days ago,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+252,Machine Learning Developer (English Services),CBC/Radio-Canada,3.9,Canada,25 days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+253,"Senior Analyst, Campaign Analytics & Insights",TD Bank,3.8,"Toronto, ON",3 days ago,,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+254,"Educator, Data Scientist",BrainStation,3.8,"Vancouver, BC",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,"Internal Auditor & Data Analyst, Summer 2021 Student Opportunities",RBC,4.0,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+256,Data Analytical Specialist/Scientist - Junior,Bevertec CST Inc,3.4,,Today,,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1
+257,Data Analyst,Brookfield Asset Management,3.6,"Toronto, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0
+258,Data Scientist,Wysdom.AI,,"Richmond Hill, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+259,Manager of Data Science,Vendasta,3.3,"Saskatoon, SK",4 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+260,Senior Data Analyst,MasterCard,4.1,"Vancouver, BC",17 days ago,,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+261,Senior Data Analyst,Sonova,3.5,"Kitchener, ON",15 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+262,Machine learning,CXsphere,,"Mississauga, ON",7 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,"Data Scientist: Pricing, Fraud, Monetization",Digital Extremes,5.0,"London, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+264,"Senior Data Scientist, GANs TORONTO, ONSOFTWARE",Tonal,,"Toronto, ON",23 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Machine Learning Scientist,Chisel AI,,"Toronto, ON",25 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+266,Business/Data Analyst,Noise,4.5,"Vancouver, BC",10 days ago,,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+267,Data Analyst,Tally,,"Vancouver, BC",23 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+268,Senior Data Analyst - O2E Brands,O2E Brands,4.0,"Vancouver, BC",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+269,Lead Data Scientist - RACE21,Teck Resources Limited,3.9,"Vancouver, BC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1
+270,Data Scientist (Natural Language Processing),owl.co,,"Toronto, ON",2 days ago,"$100,000 - $170,000 a year",1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+271,Data Analytical Specialist/Scientist - Junior,Bevertec CST Inc,3.4,,Today,,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1
+272,Machine Learning Engineer,Aviva,3.9,"Markham, ON",30+ days ago,,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+273,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+274,Data Analytics,Enterprise Solutions Inc,,,30+ days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+275,Data Scientist,Charger Logistics Inc.,3.6,,3 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Data Scientist,Fiddlehead,,"Moncton, NB",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+277,Business Intelligence Administrator,City of Regina,3.8,"Regina, SK",1 day ago,$36.35 - $45.45 an hour,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+278,"Manager, Data Science",Aviva,3.9,"Markham, ON",1 day ago,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+279,Data Science Specialist,Deloitte,4.0,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1
+280,"Manager, Data Science, Audience Science",Ubisoft,3.9,"Montréal, QC",2 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+281,Analyst - Performance Analytics & Reporting,Ontario Energy Board,4.3,"Toronto, ON",Today,,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+282,"Manager, Data Science Engineering",Aviva,3.9,"Markham, ON",1 day ago,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+283,Data Scientist,Wysdom.AI,,"Richmond Hill, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+284,"Team Leader, Data Analytics",Kent Building Supplies,2.8,"Saint John, NB",3 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+285,Data Scientist,Canada Drives,3.7,"Vancouver, BC",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0
+286,"Data Scientist, Game",Prodigy Game,4.6,,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,"Data Scientist, Sales & Customer Success",Prodigy Game,4.6,,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,Data Scientist,Canadian National Railway,3.2,,22 days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+289,Senior Data Scientist,MaxSold,3.6,,8 days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+290,"Data Scientist, Solar & Storage (Remote)",Power Factors,,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+291,Senior Applied Scientist - Machine Learning Products,Xero,,"Toronto, ON",30+ days ago,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+292,"Machine Learning Intern (ML-Agents), AI@Unity",ChilliConnect,,"Vancouver, BC",25 days ago,,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+293,Machine Learning Engineer,Aspect Biosystems,,"Vancouver, BC",30+ days ago,,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,"Senior Data Analyst, Performance and Insights",Aviva,3.9,"Markham, ON",30+ days ago,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+295,Senior Data Scientist,Digital Extremes,5.0,"London, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+296,Senior Data Analyst - Remote,Tucows,2.9,Ontario,16 days ago,,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+297,Senior Data Analyst,Ainsworth,3.7,"Oshawa, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+298,Data Scientist Technical Lead (Toronto),Intact,3.8,"Toronto, ON",9 days ago,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+299,ITS Analytics Engineer,Avanade,3.6,"Toronto, ON",1 day ago,,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+300,"Chercheuse/Chercheur scientifique, recherche appliquée - Séries chronologiques / Applied Research Scientist - Time Series Forecasting - Platform",Element AI,4.3,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,Data Scientist/Machine Learning Engineer,Staffinity Inc.,4.5,,28 days ago,"$80,000 - $120,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Sr Business Data Analyst,Moneris Solutions Corporation,3.6,"Etobicoke, ON",11 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+303,Senior Data Analyst Investment,National Bank of Canada,3.9,"Montréal, QC",3 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+304,Senior Data Scientist,Loblaw Digital,2.0,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+305,Data Analyst,DocuPet,,"Ottawa, ON",29 days ago,"$50,000 - $90,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+306,"Cloud Technical Solutions Developer, Big Data, Google Cloud",Google,4.3,"Waterloo, ON",30+ days ago,,1,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+307,Vice President Business Analytics and Data,OSL Retail Services Inc,3.0,"Mississauga, ON",21 days ago,,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+308,Senior Machine Learning Scientist,Microsoft,4.2,"Vancouver, BC",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+309,Senior Machine Learning Engineer,Workday,4.0,"Vancouver, BC",3 days ago,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,Property & Specialty Claims Risk Data Analyst,Aviva,3.9,"Markham, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+311,Senior Data Analyst - Risk,Circle,3.7,Ontario,30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+312,"Data Engineer, Machine Learning",Jungle Scout,,"Vancouver, BC",11 days ago,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+313,"Consultant/Senior Consultant, Information, Data and Analytics",KPMG,4.0,"Toronto, ON",17 days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+314,Business Intelligence Analyst,Metro Supply Chain Group,3.3,,11 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0
+315,Applied AI Scientist (Focus: Deep Learning and Computer Vision),"Thales Canada Inc., Research & Technology",,,22 days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0
+316,Consultant-- Statistician,IQVIA,3.8,"Kirkland, QC",7 days ago,,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+317,Data Analytical Specialist/Scientist - Junior,Bevertec CST Inc,3.4,,Today,,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1
+318,"Machine Learning Engineer - Modeler, Risk",Square,3.6,"Vancouver, BC",15 days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+319,Senior Data Scientist,nugget.ai,,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+320,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+321,"Senior Analyst, Campaign Analytics & Insights",TD Bank,3.8,"Toronto, ON",3 days ago,,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+322,Business Intelligence Analyst,Metro Supply Chain Group,3.3,,11 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0
+323,"Data Science Manager, Memberships Modelling",Prodigy Game,4.6,,8 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+324,Staff Machine Learning Engineer,realtor.com,3.3,"Vancouver, BC",6 days ago,,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0
+325,Data Analytics Specialist,ArcelorMittal,4.0,"Concord, ON",22 days ago,,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+326,Machine Learning Engineer/Data Scientist,Crescendo Technology,4.8,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,"SAP - Data & AI Specialist, Omnia AI",Deloitte,4.0,"Toronto, ON",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+328,Data Analyst,DocuPet,,"Ottawa, ON",29 days ago,"$50,000 - $90,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+329,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+330,Big Data Consultant - Cloud Azure,Eastern Canada Consulting,,"Calgary, AB",26 days ago,"$80,000 - $90,000 a year",0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+331,ANALYTICS CONSULTANT,Mackenzie Health,3.9,"Vaughan, ON",30+ days ago,,1,1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1
+332,Python Developer (Machine Learning),EPAM Systems,3.9,Canada,30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,Principal Applied Scientist Manager – Content Recommendation,Microsoft,4.2,"Vancouver, BC",30+ days ago,,1,1,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+334,Sr. Manager Data Science,CIBC,3.8,"Toronto, ON",7 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+335,Senior Machine Learning Engineer,Workday,4.0,"Vancouver, BC",3 days ago,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Software Engineer (Machine Learning),Microsoft,4.2,"Vancouver, BC",19 days ago,,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+337,Business Analyst - Business Intelligence,MSi Corp (Bell Canada),3.6,"Montréal, QC",4 days ago,$50 an hour,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+338,Machine Learning Developer,Tetra Tech,3.8,"Edmonton, AB",10 days ago,,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+339,"Manager, Business Intelligence and CRM",Vancouver Whitecaps FC,4.4,"Vancouver, BC",8 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0
+340,"Data Science Manager, Memberships Modelling",Prodigy Game,4.6,,8 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+341,Marketing Analytics Co-op,Humi,,"Toronto, ON",3 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+342,"Head of Data, Insights & Analytics",Rogers Communications,3.7,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+343,Business Intelligence Analyst,Metro Supply Chain Group,3.3,,11 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0
+344,"Data, Apps, and Modern BI Technical Consultant",EY,4.0,"Toronto, ON",16 days ago,,1,1,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+345,Epidemiologist - Predictive Modeling Specialist,BlueDot Inc.,,"Toronto, ON",14 days ago,,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0
+346,Data Analyst,Sryas Inc.,,"Toronto, ON",24 days ago,"$85,000 a year",1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+348,Senior Data Analyst Investment,National Bank of Canada,3.9,"Montréal, QC",3 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+349,Senior Data Scientist- People Analytics,Loblaw Companies Limited,3.5,Canada,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,1
+350,"Regional Senior Data Analyst - 2 Year Term - (Prince George, BC)",First Nations Health Authority,3.0,Canada,30+ days ago,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+351,"Data Science Manager, Memberships Modelling",Prodigy Game,4.6,,8 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+352,Consultant-- Statistician,IQVIA,3.8,"Kirkland, QC",7 days ago,,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+353,Senior Data Analyst,Behavox,,"Montréal, QC",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+354,"Data Engineer, Machine Learning",Jungle Scout,,"Vancouver, BC",11 days ago,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+355,Data Scientist/Machine Learning Engineer,Staffinity Inc.,4.5,,28 days ago,"$80,000 - $120,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,Staff Data Scientist,realtor.com,3.3,"Vancouver, BC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0
+357,"Software Engineer, Machine Learning","Grammarly, Inc.",,"Vancouver, BC",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,Business Intelligence Analyst,BMW Group Financial Services Canada,3.9,"Toronto, ON",28 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0
+359,Data Scientist,Belcan,,,30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,Machine Learning Developer,Quantfury,,"Toronto, ON",30+ days ago,,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+361,"Machine Learning Intern (ML-Agents), AI@Unity",ChilliConnect,,"Vancouver, BC",25 days ago,,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+362,Machine Learning Engineer,Scribendi,,"Chatham-Kent, ON",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+363,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+364,Lead Data Scientist,Patriot One Technologies,,"Toronto, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+365,Machine Learning Engineer,Motion Metrics International Corp.,2.3,"Vancouver, BC",30+ days ago,,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+366,Credit & Risk Management Analyst,BRP,3.9,"Montréal, QC",11 days ago,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+367,Workplace Analytics Manager,Deloitte,4.0,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1
+368,NLP/ML Developer 3165375,Morgan Stanley,3.9,"Montréal, QC",22 days ago,,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+369,Data Analyst/Engineer,Microsoft,4.2,"Vancouver, BC",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+370,Senior Product Manager - Data Analytics & Platform (Remote),Yelp,,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+371,Full Stack Developer - Data Science and Advanced Analytics,St. Michael's Hospital,4.1,"Toronto, ON",25 days ago,,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+372,Business Intelligence Analyst,CAPREIT,3.2,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+373,Machine Learning Geoscientist,DATACLOUD,,"Vancouver, BC",30+ days ago,,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+374,Data Analyst,IQVIA,3.8,Ontario,21 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+375,Senior Consultant Data and Analytics - Azure engineer,Ernst & Young,4.0,"Montréal, QC",28 days ago,,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+376,"Analytics Manager, Innovation & Attributes",Equifax,3.6,"Toronto, ON",30+ days ago,,1,1,1,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,"Senior developer Backend AWS IoT, Machine Learning & AI",Services Conseils IntelliSoft inc.,,"Montréal, QC",30+ days ago,,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0
+378,Senior Machine Learning Engineer,Sonova,3.5,"Kitchener, ON",7 days ago,,1,1,1,1,1,1,0,0,1,0,0,1,1,0,1,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0
+379,Senior Software Engineer (NLP),Galvanize,4.6,"Vancouver, BC",16 days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+380,Data Science Senior Manager,Citi,3.9,"Mississauga, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+381,"Product Manager, Fraud Analytics and Modeling",Aviva,3.9,"Markham, ON",30+ days ago,,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+382,Business Intelligence Programmer,Big Blue Bubble,4.0,"London, ON",30+ days ago,,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+383,"Research Intern, Machine Learning for Image Synthesis (PhD)",Facebook,4.2,"Montréal, QC",14 days ago,,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+384,Business Intelligence Analyst,Metro Supply Chain Group,3.3,"Mississauga, ON",11 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0
+385,Data Science Consultant,Infinity Technology,,"National Capital Region, ON",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,"Manager, AML/ATF Models & Analytics",Scotiabank,3.9,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,Big Data Engineer - Analytics,Interset,,"Ottawa, ON",30+ days ago,,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+388,Senior Machine Learning Developer / Développeur apprentissage automatique sénior,ChilliConnect,,"Montréal, QC",3 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,Senior Machine Learning Engineer,BlackBerry,4.0,"Ottawa, ON",30+ days ago,,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+390,Senior Statistical Programmer,IQVIA,3.8,"Kirkland, QC",30+ days ago,,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+391,"Manager, Insights and Analytics",Giant Tiger,3.8,"Ottawa, ON",22 days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+392,"ML Ops Solution Architect, Omnia AI",Deloitte,4.0,"Toronto, ON",28 days ago,,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+393,Business Development - Data Science Senior Manager,Accenture,4.0,"Montréal, QC",30+ days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,1,1
+394,SEPT Grad - SESSIONAL FACULTY - SEP 786 Artificial Intelligence & Machine Learning Fundamentals/ SEP 787 Machine Learning: Classifi...,McMaster University,4.3,"Hamilton, ON",30+ days ago,"$8,100 a month",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+395,Senior Software Developer - Machine Learning,Oracle,3.8,"Kitchener, ON",30+ days ago,,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+396,Data Analyst,Ingrooves,,"Victoria, BC",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+397,"Internal Auditor & Data Analyst, Summer 2021 Student Opportunities",RBC,4.0,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+398,"Software Engineer, Machine Learning","Grammarly, Inc.",,"Vancouver, BC",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,"Director, Data Strategy and Analytics",The Boiler Inspection and Insurance Company of Can...,,"Toronto, ON",28 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+400,Data Engineer - Machine Learning,Prenuvo Inc,,"Vancouver, BC",30+ days ago,,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+401,"Senior Manager, Data Science",Vanguard,3.8,"Toronto, ON",23 days ago,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+402,"Sr Data Analyst, DTC",Rogers Communications,3.7,"Toronto, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,Director- Data Strategy & Analytics,Munich RE,4.0,"Toronto, ON",28 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+404,"Manager, Data Analytics",LandSure Systems,,"Vancouver, BC",23 days ago,,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+405,Machine Learning Engineer - Core Engineering,Goldman Sachs,4.0,"Toronto, ON",30+ days ago,,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+406,"Manager, Business Intelligence",Thomson Reuters,3.9,"Toronto, ON",8 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0
+407,Business Analytics Lead,Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+408,Product Manager - Machine Learning for Financials and Spend,Workday,4.0,"Toronto, ON",30+ days ago,"$99,000 a year",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+409,"Data Science Manager, Memberships Modelling",Prodigy Game,4.6,"Oakville, ON",8 days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+410,Senior Enterprise Analytics Solutions Analyst,Coast Capital Savings Federal Credit Union,3.8,"Surrey, BC",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+411,"Manager, Financial Pricing Analytics",Scotiabank,3.9,"Toronto, ON",17 days ago,,0,1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+412,Développeur(euse) en IA – Traitement du language naturel (NLP) | AI Developer - Natural Language Processing (NLP) Capability,Element AI,4.3,"Montréal, QC",30+ days ago,,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+413,"Research Scientist, AI",Facebook,4.2,"Montréal, QC",30+ days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+414,"Postdoctoral Scholar, Machine Learning and the Microbiome, Cumming School of Medicine",The University of Calgary,4.1,"Calgary, AB",30+ days ago,"$50,000 a year",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+415,Senior Project Manager Transportation Services (Data & Analytics),City of Toronto,4.2,"Toronto, ON",17 days ago,"$103,303 - $121,376 a year",0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+416,Senior Machine Learning Developer,Loblaw Companies Limited,3.5,"Brampton, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,0,1,1,1,0
+417,"Senior Manager, AI Strategy, Customer & Marketing AI, Omnia AI Vancouver",Deloitte,4.0,"Vancouver, BC",28 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+418,Machine Learning Software Designer/Engineer,SNC-Lavalin,4.0,"Mississauga, ON",30+ days ago,,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+419,Analytics Design and Delivery Lead,Suncor Energy Services,4.0,"Calgary, AB",30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1
+420,Sr Machine Learning Product Engineer (Layer 6),TD Bank,3.8,"Toronto, ON",25 days ago,,1,1,0,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,Senior AI Software Developer,Vector Institute,,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+422,DevOps & Machine Learning Integration Analyst,Canadian National Railway,3.2,"Edmonton, AB",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+423,"Deputy Director, Process Diagnostics & Analytics",Sanofi,4.1,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+424,"Sr. Product Manager, Advanced Analytics Automation",autoTRADER.ca,3.5,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0
+425,"Senior Manager, Advanced Analytics and Data Science",BMO Financial Group,3.8,"Toronto, ON",23 days ago,,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+426,Senior Machine Learning Engineer,Augmenta,,Canada,30+ days ago,,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+427,Développeur(euse) en IA – Traitement du language naturel (NLP) | AI Developer - Natural Language Processing (NLP) Capability,Element AI,4.3,"Montréal, QC",30+ days ago,,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0
+428,Big Data Solution Architect,EPAM Systems,3.9,"Toronto, ON",30+ days ago,,0,1,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+429,Sr Machine Learning Product Engineer (Layer 6),TD Bank,3.8,"Toronto, ON",25 days ago,,1,1,0,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+430,"Senior Software Engineer, Machine Learning",ThinkData Works,,"Toronto, ON",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+431,Full Stack Developer - Data Science and Advanced Analytics,St. Michael's Hospital,4.1,"Toronto, ON",25 days ago,,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+432,"Senior Manager, AI Strategy, Customer & Marketing AI, Omnia AI Vancouver",Deloitte,4.0,"Vancouver, BC",28 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+433,"Solutions Architect, Advanced Analytics and Big Data",Desjardins,3.9,"Montréal, QC",30+ days ago,,0,1,1,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+434,Specialist Business Intelligence Performance Measurement and Reporting,PHSA,3.2,"Vancouver, BC",30+ days ago,,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1
+435,DevOps & Machine Learning Integration Specialist,Canadian National Railway,3.2,"Edmonton, AB",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+436,Senior Analytics Implementation Specialist,TD Bank,3.8,"Toronto, ON",11 days ago,,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+437,"Senior Manager, Product Analytics - Canada",Flight Centre Travel Group,3.4,Ontario,8 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+438,"Manager, Cyber Security, Omnia AI",Deloitte,4.0,"Toronto, ON",15 days ago,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+439,"Senior Product Manager, Learner Experience",Coursera,4.3,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+440,Senior Statistician - RWE,IQVIA,3.8,"Kirkland, QC",30+ days ago,,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+441,ML Engineer (Backend),TD Bank,3.8,"Toronto, ON",30+ days ago,,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,Alberta Health Services Chair in Artificial Intelligence Applied to Health,University of Alberta,4.3,"Edmonton, AB",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,Sr Data Analyst ( Oracle/Big Data) VP,Citi,3.9,"Mississauga, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+444,"Senior Consultant, AI Strategy - Supply Chain & AI, Omnia AI",Deloitte,4.0,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+445,Machine Learning Developer (French Services),CBC/Radio-Canada,3.9,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+446,"Senior Software Engineer, Machine Learning",ThinkData Works,,"Toronto, ON",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+447,Senior Game Data Analyst,Kabam,,"Vancouver, BC",30+ days ago,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+448,"Manager/Senior Manager, Information, Data and Analytics",KPMG,4.0,"Toronto, ON",17 days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+449,"Senior Data Analyst, Parents",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,Business Intelligence Architect,NTT DATA Services,3.5,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,0,1
+451,Principal Statistical Programmer,IQVIA,3.8,"Kirkland, QC",30+ days ago,,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+452,"Data Scientist, Marketing & Web Analytics",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,Senior Game Data Analyst,Kabam,,"Vancouver, BC",30+ days ago,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+454,Sr Data Analyst ( Oracle/Big Data) VP,Citi,3.9,"Mississauga, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+455,Business Intelligence Architect,NTT DATA Services,3.5,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,0,1
+456,Postdoctoral Position in Solid-State Chemistry and Machine Learning for Materials Science,University of Alberta,4.3,"Edmonton, AB",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+457,Alberta Health Services Chair in Artificial Intelligence Applied to Health,University of Alberta,4.3,"Edmonton, AB",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,Junior Data Scientist with Python experience,Samiti Technology,,"Toronto, ON",Today,$250 - $350 a day,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,"Director, Business Analytics",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+460,Data Science Architect,Rackspace,,"Toronto, ON",30+ days ago,,0,1,1,1,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0
+461,"Senior Data Analyst, Parents",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,Business Intelligence Analyst / Analyste en intelligence d'affaires,ChilliConnect,,"Montréal, QC",28 days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+463,Ingénieur en développement logiciel principal – apprentissage automatique – Microsoft Research Montréal / Senior SDE – Machine Learning – Microsoft Research Montreal,Microsoft,4.2,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+464,"Senior Software Engineer- Full Stack , Cyber Risk Analytics","Guidewire Software, Inc.",3.7,"Toronto, ON",28 days ago,,1,1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+465,"Sénior en développement de logiciels, du Machine Learning et Visual Analytics",Canadian National Railway,3.2,"Edmonton, AB",30+ days ago,,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+466,Senior Statistician - RWE,IQVIA,3.8,"Kirkland, QC",30+ days ago,,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+467,"Senior Data Analyst, Educators",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,"Senior Consultant, Cyber Security, Omnia AI",Deloitte,4.0,"Toronto, ON",15 days ago,,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+469,Machine Learning Developer (French Services),CBC/Radio-Canada,3.9,"Montréal, QC",30+ days ago,,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+470,Senior Software Development - Machine Learning & Visual Analytics,Canadian National Railway,3.2,"Edmonton, AB",30+ days ago,,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+471,Data Scientist,Ontario Medical Association,4.6,"Toronto, ON",4 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+472,"Assistant Professor, Next Generation Artificial Intelligence and Machine Learning Systems, Department of Electrical and Computer Engineering",The University of Calgary,4.1,"Calgary, AB",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+473,Data Scientist,Nidish LLC,,Remote,25 days ago,$45 an hour,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,Data Scientist,Apply Digital,,"Vancouver, BC",10 days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+475,"Data Scientist, Solar & Storage (Remote)",Power Factors,,Remote,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+476,Junior Data Scientist,Profitable Software Inc.,,"Vancouver, BC",16 days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Data Scientist,MSi Corp (Bell Canada),3.6,"Montréal, QC",7 days ago,$35 an hour,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+478,Machine Learning Engineer/Data Scientist,IDES CANADA INC,,"Whitchurch-Stouffville, ON",15 days ago,"$50,000 - $80,000 a year",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+479,Head of Finance – Retail Operations & Marketing Analytics,BRP,3.9,"Montréal, QC",30+ days ago,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+480,Data Analytical Scientist,Samiti Technology,,"Toronto, ON",10 days ago,$50 - $60 an hour,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+481,Analyste de données - Senior - Data Analyst,Nuance,3.2,"Montréal, QC",30+ days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+482,Data Science Manager,MobSquad,,"Calgary, AB",30+ days ago,,0,1,1,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+483,Data Scientist II,Flipp,4.2,"Toronto, ON",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+484,Senior Machine Learning Engineering Manager,Brainmaven Corp,,"Toronto, ON",29 days ago,"$150,000 - $190,000 a year",0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+485,Director of Data Science,Mejuri,4.5,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+486,"Senior Data Analyst, Parents",Prodigy Game,4.6,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,Director of Advanced Analytics,Afiniti,,"Toronto, ON",25 days ago,,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+488,Data Analytics Analyst,IQVIA,3.8,"Toronto, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+489,Big Data Engineer Support,AdGear,,"Hampstead, QC",23 days ago,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+490,"Software Engineer, Machine Learning Algorithms",SoundHound Inc.,,"Toronto, ON",16 days ago,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,Senior Business Intelligence Analyst,Westland Insurance Group,3.5,"Surrey, BC",21 days ago,,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+492,"Machine Learning Intern, Speech Recognition, M.S. / Ph.D., Summer 2021",SoundHound Inc.,,"Toronto, ON",30+ days ago,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,Data Analyst (Required-bilingual French & English),IQVIA,3.8,"Kirkland, QC",22 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+494,"Director, Data Science",Clarius,,"Vancouver, BC",24 days ago,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0
+495,Senior Technical Product Manager (Machine Learning),Brainmaven Corp,,"Toronto, ON",10 days ago,"$140,000 a year",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+496,Analyste de données - Senior - Data Analyst,Nuance,3.2,,30+ days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+497,Data Analyst,Jerry,,"Toronto, ON",22 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+498,"Data Strategy - Operations Analyst (6 month contract, possibility of extension)",Service Experts,2.8,"Mississauga, ON",21 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+499,Product Analytics Lead,Uken Games,4.5,"Charlottetown, PE",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+500,Sr. Data Analyst,Bond Brand Loyalty Inc,3.3,,30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+501,Big Data Engineer Support,AdGear,,"Hampstead, QC",23 days ago,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+502,"Machine Learning Engineer, Shopping Discovery",Pinterest,,"Toronto, ON",25 days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,Senior Software Developer - Assessments (Machine Learning),Coursera,4.3,"Toronto, ON",10 days ago,,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+504,"Director, Finance Automation and Robotics",Bell Canada,3.8,"Verdun, QC",4 days ago,,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+505,Deep Learning Engineer,Deeplite Inc,,"Montréal, QC",30+ days ago,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,Senior Machine Learning Engineer,BlackBerry,4.0,"Ottawa, ON",30+ days ago,,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+507,Sr. Associate Data Science and Analytics,Publicis Sapient,3.9,"Toronto, ON",22 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1
+508,Business Intelligence Manager,Uberflip,,"Toronto, ON",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+509,Conversational Artificial Intelligence Engineer,IBM,3.9,"Markham, ON",10 days ago,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1
+510,Senior Director: Data Analytics,Capgemini,3.8,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+511,"Senior Consultant / Manager, Microsoft Data and Analytics",KPMG,4.0,"Montréal, QC",30+ days ago,,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+512,"Data Strategy - Operations Analyst (6 month contract, possibility of extension)",Service Experts,2.8,"Mississauga, ON",21 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+513,Sr. Data Analyst,Bond Brand Loyalty Inc,3.3,,30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+514,"Data Analyst, Merchandise Planning",SSENSE,3.1,"Montréal, QC",29 days ago,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+515,"Machine Learning Engineer, Shopping Content Mining",Pinterest,,"Toronto, ON",25 days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,Senior Software Developer - Assessments (Machine Learning),Coursera,4.3,"Toronto, ON",10 days ago,,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+517,Senior Statistician,PHSA,3.2,"Vancouver, BC",30+ days ago,,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1,0
+518,"Research Intern, Eye Tracking - Machine Learning (PhD)",Facebook,4.2,"Toronto, ON",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+519,Senior Business/Data Analyst (AVP),Citi,3.9,"Mississauga, ON",16 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+520,Senior Data Analyst/Engineer,Microsoft,4.2,"Vancouver, BC",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+521,Sessional Lecturer - GGR276H5S Spatial Data Science I (Sci),University of Toronto,4.4,"Mississauga, ON",17 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+522,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+523,Assistant Professor (Data Science),Carleton University,4.4,"Ottawa, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+524,"Senior Data Analyst, Parents",Prodigy Game,4.6,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+525,Data Analyst,Jerry,,"Toronto, ON",22 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+526,"Manager, Financial Pricing Analytics",Scotiabank,3.9,"Toronto, ON",17 days ago,,0,1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+527,"Senior Data Analyst, North American Risk and Collections Strategy",BMO Financial Group,3.8,"Mississauga, ON",30+ days ago,,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+528,Machine Learning Geoscientist,DATACLOUD,,"Vancouver, BC",30+ days ago,,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+529,Senior Data Analyst - Business Intelligence,StackAdapt,4.5,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+530,Senior Data Analyst/Engineer,Microsoft,4.2,"Vancouver, BC",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+531,Director of Advanced Analytics,Afiniti,,"Toronto, ON",25 days ago,,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+532,"Senior Manager, Customer Insights & Advanced Analytics",Loblaw Digital,2.0,"Toronto, ON",11 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+533,Director of Analytics and Reporting,HOLLAND GROUP FINANCIAL,,"Toronto, ON",30+ days ago,"$100,000 - $110,000 a year",1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0
+534,"Specialist, Digital Analytics Deployment, Integrated Operations",Teck Resources Limited,3.9,"Vancouver, BC",8 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+535,Senior Digital Marketing & Analytics Analyst,TD Bank,3.8,"Toronto, ON",2 days ago,,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+536,Machine Learning & Signal Processing Specialist,TandemLaunch,3.5,"Montréal, QC",30+ days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+537,Machine Learning for Scene Understanding – Intern,Bosch Group,4.1,"Waterloo, ON",21 days ago,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+538,Data Scientist II,Flipp,4.2,"Toronto, ON",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+539,Data Analytical Specialist/Scientist - Junior,Bevertec CST Inc,3.4,,Today,,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1
+540,Project Manager - Business Intelligence,MSi Corp (Bell Canada),3.6,"Ottawa, ON",4 days ago,$55 an hour,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0
+541,Chief Executive Officer (CEO) of a Machine Learning Audio Startup,TandemLaunch,3.5,"Montréal, QC",21 days ago,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+542,Full Stack Developer - Data Science and Advanced Analytics,St. Michael's Hospital,4.1,"Toronto, ON",25 days ago,,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0
+543,Business Intelligence Analyst,CAPREIT,3.2,"Toronto, ON",30+ days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+544,Machine Learning Engineer - Shopping Content Mining,Hired Recruiters,,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,Machine Learning Engineer,Unbounce,,"Vancouver, BC",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+546,"Director, Advanced Analytics",CGI Inc,3.6,"Vancouver, BC",9 days ago,,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+547,Data Analyst,IQVIA,3.8,Ontario,21 days ago,,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+548,Machine Learning & Signal Processing Specialist,TandemLaunch,3.5,"Montréal, QC",30+ days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+549,MLOps / ML Engineer,Acerta Analytics Solutions Inc,,"Kitchener, ON",22 days ago,"$90,000 a year",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+550,Data Strategy - Operations Analyst (6 month contract),Service Experts,2.8,"Toronto, ON",21 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+551,Senior Consultant Data and Analytics - Azure engineer,Ernst & Young,4.0,"Montréal, QC",28 days ago,,0,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+552,"Analytics Manager, Innovation & Attributes",Equifax,3.6,"Toronto, ON",30+ days ago,,1,1,1,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,"Data Analyst, Merchandise Planning",SSENSE,3.1,"Montréal, QC",29 days ago,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+554,"Senior developer Backend AWS IoT, Machine Learning & AI",Services Conseils IntelliSoft inc.,,"Montréal, QC",30+ days ago,,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0
+555,Data Science Senior Manager,Citi,3.9,"Mississauga, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+556,Sr. Data Analyst,Bond Brand Loyalty Inc,3.3,,30+ days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+557,Data Engineer - Machine Learning,Opus One Solutions,,"Toronto, ON",28 days ago,,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+558,Business Intelligence Programmer,Big Blue Bubble,4.0,"London, ON",30+ days ago,,1,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+559,"Research Intern, Machine Learning for Image Synthesis (PhD)",Facebook,4.2,"Montréal, QC",14 days ago,,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+560,Data Science Consultant,Infinity Technology,,"National Capital Region, ON",30+ days ago,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+561,"Director, Applied Machine Learning",Stradigi AI,,"Montréal, QC",15 days ago,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+562,"Manager, AML/ATF Models & Analytics",Scotiabank,3.9,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+563,Big Data Engineer - Analytics,Interset,,"Ottawa, ON",30+ days ago,,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+564,Senior Machine Learning Developer / Développeur apprentissage automatique sénior,ChilliConnect,,"Montréal, QC",3 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,Business Intelligence Analyst,The Toronto Region Board of Trade,2.0,"Toronto, ON",24 days ago,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+566,Machine Learning Geoscientist,DATACLOUD,,"Vancouver, BC",30+ days ago,,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+567,Data & AI Technical Architect-CoE,Avanade,3.6,"Calgary, AB",22 days ago,,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1
+568,Data Scientist (Junior),Trigyn,,,Just posted,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+569,Senior Machine Learning Engineer,BlackBerry,4.0,"Ottawa, ON",30+ days ago,,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+570,Senior Machine Learning Developer / Développeur apprentissage automatique sénior,Unity Technologies,,"Montréal, QC",3 days ago,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+571,Data Analyst,Citylitics,,"Toronto, ON",3 days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+572,"Manager, Insights and Analytics",Giant Tiger,3.8,"Ottawa, ON",22 days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+573,"ML Ops Solution Architect, Omnia AI",Deloitte,4.0,"Toronto, ON",28 days ago,,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+574,Senior Machine Learning Developer,Unity Technologies,,"Vancouver, BC",14 days ago,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+575,Business Development - Data Science Senior Manager,Accenture,4.0,"Montréal, QC",30+ days ago,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,1,1
+576,SEPT Grad - SESSIONAL FACULTY - SEP 786 Artificial Intelligence & Machine Learning Fundamentals/ SEP 787 Machine Learning: Classifi...,McMaster University,4.3,"Hamilton, ON",30+ days ago,"$8,100 a month",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+577,"Senior Data Analyst, Parents",Prodigy Game,4.6,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+578,Analyste d'affaires BI,agileDSS,,"Montréal, QC",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+579,Machine Learning Engineer,nugget.ai,,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+580,Senior Data Analyst/ Developer,AdGear,,"Montréal, QC",30+ days ago,,1,1,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+581,Senior Software Developer - Machine Learning,Oracle,3.8,"Kitchener, ON",30+ days ago,,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+582,Lead Machine Learning Developer - (ehsAI),Intelex Technologies,3.6,British Columbia,11 days ago,,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+583,Senior Digital Marketing & Analytics Analyst,TD Bank,3.8,"Toronto, ON",2 days ago,,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+584,Business Intelligence Analyst,Bayshore HealthCare,3.2,"Mississauga, ON",30+ days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+585,PhD University Grad Machine Learning Engineer (2021),Pinterest,,"Toronto, ON",25 days ago,,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,"Deputy Director, Process Diagnostics & Analytics",Sanofi,4.1,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+587,Sr. Software Engineer (Analytics + Machine Learning),Cvent,3.6,"Fredericton, NB",30+ days ago,,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,"Senior Data Analyst, Parents",Prodigy Game,4.6,,30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,Lead Machine Learning Engineer,Patriot One Technologies,,"Vancouver, BC",12 days ago,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+590,Senior Digital Analytics Manager,BlackBerry,4.0,"Mississauga, ON",3 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+591,"Data Engineer, Financial, Marketing & Sales",Prodigy Game,4.6,,30+ days ago,,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+592,Data Analyst/Engineer,Microsoft,4.2,"Vancouver, BC",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+593,Ingénieur.e en apprentissage machine / Machine Learning Engineer,CAE Inc.,3.7,"Saint-Laurent, QC",30+ days ago,,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+594,Research Engineer (Machine Learning and Computer Vision),Roboeye,,"Toronto, ON",30+ days ago,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+595,ML / AI Customer Engineer (Ottawa),h2o.ai,,"Ottawa, ON",30+ days ago,,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+596,Machine Learning - Ph.D. Internship,Instacart,2.9,"Toronto, ON",30+ days ago,,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+597,Speech Technologies Machine Learning Engineer,IBM,3.9,"Markham, ON",10 days ago,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1
+598,"Director, Finance Automation and Robotics",Bell Canada,3.8,"Verdun, QC",4 days ago,,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+599,"Senior Manager, Customer Insights & Advanced Analytics",Loblaw Digital,2.0,"Toronto, ON",11 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+600,Senior Software Engineer (NLP),Galvanize,4.6,"Vancouver, BC",16 days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+601,"ML Ops Solution Architect, Omnia AI",Deloitte,4.0,"Toronto, ON",28 days ago,,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+602,"VP, Finance Systems and Data",Thomson Reuters,3.9,"Toronto, ON",27 days ago,,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+603,Machine Learning Software Designer/Engineer,SNC-Lavalin,4.0,"Mississauga, ON",30+ days ago,,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+604,Speech Technologies Machine Learning Engineer,IBM,3.9,"Markham, ON",10 days ago,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,1
+605,SEPT Grad - SESSIONAL FACULTY - SEP 786 Artificial Intelligence & Machine Learning Fundamentals/ SEP 787 Machine Learning: Classifi...,McMaster University,4.3,"Hamilton, ON",30+ days ago,"$8,100 a month",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+606,Senior Software Engineer (NLP),Galvanize,4.6,"Vancouver, BC",16 days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+607,Senior Digital Analytics Manager,BlackBerry,4.0,"Mississauga, ON",3 days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+608,Credit & Risk Management Analyst,BRP,3.9,"Montréal, QC",11 days ago,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+609,Senior Machine Learning Developer,Loblaw Companies Limited,3.5,"Brampton, ON",30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,0,1,1,1,0
+610,"System Architect, Privacy Analytics",IQVIA,3.8,Ontario,30+ days ago,,0,1,1,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0
+611,Intermediate BI Analyst,Unbounce,,"Vancouver, BC",14 days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+612,Research Intern - AI/Deep Learning,Deeplite Inc,,"Montréal, QC",30+ days ago,,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+613,Business Intelligence Analyst,Thinking Capital,3.2,"Ottawa, ON",25 days ago,,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+614,Big Data and AI Analyst,Myant,4.6,"Toronto, ON",30+ days ago,,0,1,0,1,0,1,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+615,Machine Learning Engineer - Content Signals,Hired Recruiters,,"Toronto, ON",30+ days ago,,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+616,Senior Business Intelligence Analyst,Westland Insurance Group,3.5,"Surrey, BC",21 days ago,,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+617,BI Manager,Techo-Bloc,3.1,"Saint-Hubert, QC",30+ days ago,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+618,Senior Technical Product Manager (Machine Learning),Brainmaven Corp,,"Toronto, ON",10 days ago,"$140,000 a year",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+619,Data Strategy - Operations Analyst (6 month contract),Service Experts,2.8,"Toronto, ON",21 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+620,Senior QA Engineer - Machine Learning Team,Stem Inc,,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+621,MLOps / ML Engineer,Acerta Analytics Solutions Inc,,"Kitchener, ON",22 days ago,"$90,000 a year",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+622,Senior Data Analyst - Risk,Circle,3.7,Ontario,30+ days ago,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+623,Data Scientist II,Flipp,4.2,"Toronto, ON",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+624,Machine Learning Engineer,Unbounce,,"Vancouver, BC",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+625,Technical Manager for Machine Learning - 82584,"Advanced Micro Devices, Inc.",3.8,"Markham, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+626,"Data Analyst, Merchandise Planning",SSENSE,3.1,"Montréal, QC",29 days ago,,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+627,Machine Learning Engineer - Shopping Content Mining,Hired Recruiters,,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+628,Deep Learning Inference and Compiler Engineer,Deeplite Inc,,"Montréal, QC",30+ days ago,,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,Machine Learning Engineer,Granify,,"Edmonton, AB",15 days ago,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+630,ML / AI Customer Engineer (Ottawa),h2o.ai,,"Ottawa, ON",30+ days ago,,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+631,Machine Learning & Signal Processing Specialist,TandemLaunch,3.5,"Montréal, QC",30+ days ago,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+632,Machine Learning for Scene Understanding – Intern,Bosch Group,4.1,"Waterloo, ON",21 days ago,,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+633,Data Scientist II,Flipp,4.2,"Toronto, ON",30+ days ago,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+634,Project Manager - Business Intelligence,MSi Corp (Bell Canada),3.6,"Ottawa, ON",4 days ago,$55 an hour,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0
+635,Big Data and AI Analyst,Myant,4.6,"Toronto, ON",30+ days ago,,0,1,0,1,0,1,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,Data & Business Intelligence Architect,Unisync Group Ltd.,3.1,"Mississauga, ON",16 days ago,,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+637,Data Analyst,Sryas Inc.,,"Toronto, ON",24 days ago,"$85,000 a year",1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,Data Analyst,Citylitics,,"Toronto, ON",3 days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+639,Machine Learning Engineer,nugget.ai,,"Toronto, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+640,Senior QA Engineer - Machine Learning Team,Stem Inc,,"Toronto, ON",30+ days ago,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+641,DevOps & Machine Learning Integration Specialist,Canadian National Railway,3.2,"Edmonton, AB",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+642,"Data Engineer, Financial, Marketing & Sales",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+643,Senior Enterprise Analytics Solutions Analyst,Coast Capital Savings Federal Credit Union,3.8,"Surrey, BC",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+644,"Director of Product Management, Artificial Intelligence",Oracle,3.8,Canada,30+ days ago,,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0
+645,"Senior Product Manager, Learner Experience",Coursera,4.3,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+646,Senior Statistical Programmer,IQVIA,3.8,"Kirkland, QC",30+ days ago,,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+647,Ingénieur.e en apprentissage machine / Machine Learning Engineer,CAE Inc.,3.7,"Saint-Laurent, QC",30+ days ago,,1,1,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+648,"Senior Manager, Product Analytics - Canada",Flight Centre Travel Group,3.4,Ontario,8 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+649,"Senior Consultant, AI Strategy - Supply Chain & AI, Omnia AI",Deloitte,4.0,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+650,"Manager, Cyber Security, Omnia AI",Deloitte,4.0,"Toronto, ON",15 days ago,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+651,Business Analytics Lead,UserTesting,4.0,"Vancouver, BC",9 days ago,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+652,"VP, Analytics & Engineering",Cymax Stores,2.9,"Vancouver, BC",25 days ago,,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,0
+653,Messaging Specialist,Compugen Inc,3.1,"Richmond Hill, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,0,0
+654,Lead Machine Learning Developer - (ehsAI),Intelex Technologies,3.6,British Columbia,11 days ago,,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+655,Machine Learning Team Lead,AltaML Inc./Janalta Interactive Inc.,,"Calgary, AB",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+656,"BI Delivery Manager / Gestionnaire de livraison, Intelligence d'Affaires",Tecsys,3.7,"Westmount, QC",18 days ago,,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+657,"Sr. BI Developer | Développeuse, Développeur en Intelligence d'Affaires Senior",Sonder,3.4,"Montréal, QC",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+658,"Senior Machine Learning Engineer, Recommendations & Ranking Algorithms",Course Hero,3.8,"Vancouver, BC",10 days ago,,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,Business Intelligence and Reporting Manager,Spark Power Corp,,"Oakville, ON",28 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+660,Senior Machine Learning Engineer,AdGear,,"Montréal, QC",30+ days ago,,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+661,VP of Data and Analytics,Jerry,,"Toronto, ON",30+ days ago,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+662,"Embedded Software Designer – Machine Learning, Computer Vision, ADAS",BTA Design Services,,"Ottawa, ON",30+ days ago,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,Senior Business Intelligence Analyst,Cymax Stores,2.9,"Vancouver, BC",30+ days ago,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+664,Data Scientist,Etraveli Group,,"Toronto, ON",30+ days ago,,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+665,Machine Learning Architect,Conexiom,2.0,"Vancouver, BC",30+ days ago,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+666,Junior Data Scientist with Python experience,Samiti Technology,,"Toronto, ON",Today,$250 - $350 a day,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+667,"System Architect, Privacy Analytics",IQVIA,3.8,Ontario,30+ days ago,,0,1,1,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0
+668,"Sénior en développement de logiciels, du Machine Learning et Visual Analytics",Canadian National Railway,3.2,"Edmonton, AB",30+ days ago,,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+669,Big Data Solution Architect,EPAM Systems,3.9,"Toronto, ON",30+ days ago,,0,1,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+670,"Senior Machine Learning Engineer, Speech Recognition",SoundHound Inc.,,"Toronto, ON",30+ days ago,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,"Data Scientist, Marketing & Web Analytics",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+672,"Senior Software Engineer- Full Stack , Cyber Risk Analytics","Guidewire Software, Inc.",3.7,"Toronto, ON",28 days ago,,1,1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+673,"Senior Data Analyst, Educators",Prodigy Game,4.6,"Oakville, ON",30+ days ago,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+674,Postdoctoral Position in Solid-State Chemistry and Machine Learning for Materials Science,University of Alberta,4.3,"Edmonton, AB",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+675,DevOps & Machine Learning Integration Analyst,Canadian National Railway,3.2,"Edmonton, AB",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+676,"Senior Product Manager, Experimentation & Analytics Enablement",realtor.com,3.3,"Vancouver, BC",23 days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1
+677,Business Intelligence and Reporting Manager,Spark Power Corp,,"Oakville, ON",28 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+678,"Leader, Data Science & Analytics (1507)",ATB Financial,3.9,"Calgary, AB",7 days ago,,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+679,Senior Software Developer - Machine Learning,Sama,,"Montréal, QC",22 days ago,,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+680,"Embedded Software Designer – Machine Learning, Computer Vision, ADAS",BTA Design Services,,"Ottawa, ON",30+ days ago,,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+681,Senior Machine Learning Engineer,24-7 Intouch,3.2,"Winnipeg, MB",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+682,Senior Product Manager - Data & Analytics,Judi.ai,,"Toronto, ON",16 days ago,"$100,000 a year",1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+683,Business Intelligence Analyst / Analyste en intelligence d'affaires,Unity Technologies,,"Montréal, QC",28 days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+684,Senior Software Developer (Deep Learning),PDFTron Systems Inc.,,"Vancouver, BC",30+ days ago,,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0
+685,EMM Specialist,Compugen Inc,3.1,"Richmond Hill, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,0,0
+686,"Senior Business Analyst, Pricing Analytics",Nomis,,"Toronto, ON",29 days ago,,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1
+687,Senior Machine Learning Developer,Sama,,"Montréal, QC",30+ days ago,,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+688,"Senior Business Analyst, Pricing Analytics",Nomis Solutions,2.9,"Toronto, ON",29 days ago,,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1
+689,Senior Software Engineer - Machine Learning,realtor.com,3.3,"Vancouver, BC",30+ days ago,,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+690,"Analyste, Ressources Humaines / Data Analyst, Human Resources",Goodfood Market Corp.,3.3,"Montréal, QC",16 days ago,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+691,Big Data Cloud Architect,AstraNorth,,"Toronto, ON",24 days ago,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+692,Machine Learning Engineer,24-7 Intouch,3.2,"Winnipeg, MB",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+693,3D Computer Vision and Deep Learning – Intern,Bosch Group,4.1,"Waterloo, ON",21 days ago,,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+694,Product Manager - Analytics,CMiC,3.3,"Toronto, ON",15 days ago,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+695,"Senior Product Manager, Experimentation & Analytics Enablement",realtor.com,3.3,"Vancouver, BC",23 days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1
+696,"Leader, Data Science & Analytics (1507)",ATB Financial,3.9,"Calgary, AB",7 days ago,,0,1,0,1,0,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0
+697,Business Intelligence Analyst / Analyste en intelligence d'affaires,Unity Technologies,,"Montréal, QC",28 days ago,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+698,Senior Machine Learning Engineer,24-7 Intouch,3.2,"Winnipeg, MB",30+ days ago,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+699,Senior Software Developer (Deep Learning),PDFTron Systems Inc.,,"Vancouver, BC",30+ days ago,,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0
+700,EMM Specialist,Compugen Inc,3.1,"Richmond Hill, ON",30+ days ago,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,0,0
+701,Senior Machine Learning Developer,Sama,,"Montréal, QC",30+ days ago,,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+702,"Senior Business Analyst, Pricing Analytics",Nomis,,"Toronto, ON",29 days ago,,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1

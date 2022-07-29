@@ -1,0 +1,171 @@
+,job_titles,companies,company_ratings,locations,post_dates,Salary,Excel,Python,R,Java,Scala,C/C++,MATLAB,SAS,SQL/databases,Oracle,SPSS,Machine Learning,Data Mining/Analytics,Visualisation,Big Data,AWS Cloud,Jason,xml,Azure,Google Cloud,IBM,Operations research,DevOps,Git,presentation,management,agile,SDLC,decision making,problem solving,project_management,leadership,consulting
+0,Data Scientist,Geotab,,"Oakville, ON, Canada",Feb 17,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Data Scientist II,TD Bank,,"Toronto, ON, Canada",Mar 03,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+2,Geospatial Scientist,TD Bank,,"Montreal, QC, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+3,Data Scientist,emergiTEL,,"Toronto, ON, Canada",Mar 04,,0,1,1,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+4,Data Scientist,Construction AI,,"Overbrook, ON, K1G 3H5, Canada",Mar 04,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,Data Scientist,Vaco,,"Toronto, ON, Canada",Mar 03,,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Data Scientist,Wish,,"Entertainment District, ON, M5J 2H5, Canada",Mar 05,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Data Scientist,Grant Thornton LLP,,"Toronto, ON, Canada",Mar 01,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Data Scientist,Torstar Corporation,,"Toronto, ON, Canada",Feb 28,,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+9,Data Scientist,Léger,,"Montreal, QC, Canada",Feb 12,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Data Scientist,Wysdom.AI,,"Bayview Hills, ON, L4S 1P3, Canada",Feb 23,,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+11,Data Scientist,Manifest Climate,,"Toronto, ON, Canada",Feb 11,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+12,Data Scientist,Etraveli,,"Entertainment District, ON, M5J 2H5, Canada",Feb 23,,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+13,Data Scientist,Manifest Climate,,"Entertainment District, ON, M5J 2H5, Canada",Feb 23,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+14,Junior Data Scientist,Vessi,,"Vancouver, BC, V6M 3G7, Canada",Feb 28,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+15,Data Scientist (remote),Ample Insight,,"Toronto, ON, M9M 2J8, Canada",Mar 03,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+16,Data Scientist - 中国市场 (remote),Ample Insight,,"Toronto, ON, M9M 2J8, Canada",Mar 07,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+17,Lead Data Scientist,Stafflink Solutions IT Staffing Company,,"Toronto, ON, Canada",Feb 27,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0
+18,Data Scientist (SPM),"Canadian Bank Note Company, Limited",,"Ottawa, ON, Canada",Feb 19,,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+19,Senior Data Scientist,Lixar Fueled by BDO,,Canada,Feb 20,,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+20,Data Scientist (Natural Language Processing),owl.co,,"Entertainment District, ON, M5J 2H5, Canada",Mar 04,,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+21,Data Scientist - Member Experience,Nextdoor,,"Toronto, ON, M4L 2J3, Canada",Feb 25,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+22,Data Scientist / Engineer,LotusFlare,,"Entertainment District, ON, M5J 2H5, Canada",Feb 23,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+23,Data Scientist (remote),Ample Insight,,"Toronto, ON, M9M 2J8, Canada",Feb 23,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+24,Data Scientist 2,Zynga,,"Toronto, ON, Canada",Feb 24,,0,1,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+25,Senior Data Scientist,Harnham,,"Vancouver, BC, V6M 3G7, Canada",Feb 13,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+26,Senior Data Scientist,Harnham,,"Victoria, BC, V8T 5H5, Canada",Feb 13,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,Environmental Scientist,"Gannett Fleming, Inc.",,"Toronto, ON, Canada",Feb 07,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1
+28,Geo-Environmental Scientist,Morrison Hershfield,,"Markham, ON, Canada",Feb 08,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1
+29,Applied Scientist (Remote),Yelp,,"Vancouver, BC, Canada",Mar 01,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Data Scientist,Nakisa,,"Montreal, QC, Canada",Feb 11,,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+31,"Staff Environmental Scientist, Water Resources (Entry Level)",ERM,,"Calgary, AB, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+32,Jr Data Scientist Assistant - PAID STUDENT INTERNSHIP,Qode Social Media Marketing,,"Downsview, ON, M6A 3A1, Canada",Feb 23,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+33,Environmental Scientist/Project Assistant (Entry Level),ERM,,"Smithers, BC, V0J 2N5, Canada",Mar 03,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+34,Lead Data Scientist,Peak Power,,"Chinatown, ON, M5S 0A2, Canada",Mar 06,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0
+35,Data Scientist,Cardinal Path,,"Toronto, ON, Canada",Mar 05,,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+36,Principal/Lead Data Scientist (Retail/CPG),antuit.ai,,"Toronto, ON, Canada",Mar 08,,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+37,Data Scientist,Loblaw,,"Brampton, ON, L6Y 5S5, Canada",Feb 25,,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+38,Data Scientist,Bank of Montreal,,"Old Toronto, ON, M5X 1A3, Canada",Mar 03,,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,1
+39,Data Scientist,Validere,,"Toronto, ON, Canada",Mar 03,,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+40,Data Scientist,Sampler,,"Toronto, ON, Canada",Mar 04,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Data Scientist,Bell,,"Toronto, ON, Canada",Mar 04,,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+42,Machine Learning Scientist,Chisel AI,,"Toronto, ON, Canada",Feb 11,,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+43,"Staff Environmental Scientist, Mine Closure Planning (Entry Level)",ERM,,"Toronto, ON, Canada",Mar 03,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+44,Data Scientist,FGF BRANDS,,"Toronto, ON, Canada",Feb 09,,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+45,Materials Scientist/Engineer,Keystone Technical Resources,,"Burnaby, BC, V3J 1L6, Canada",Feb 10,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+46,Data Scientist,bce.ca,,"The Donway, ON, M3B 2W3, Canada",Mar 04,,1,1,0,1,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+47,Data Engineer,Compass Digital Labs,,"Hurontario, ON, L4Z 2H7, Canada",Feb 23,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+48,Data Scientist II,Grasshopper Solar Corporation,,"Toronto, ON, Canada",Mar 03,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+49,"Senior Data Scientist, Customer Data",Rogers Communications,,"Toronto, ON, Canada",Feb 23,,0,1,1,0,1,0,0,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+50,Sr. Data Scientist,TalentSphere Staffing Solutions,,"Vancouver, BC, Canada",Mar 06,,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+51,"Data Scientist, Team Lead",Top Hat,,"Toronto, ON, Canada",Feb 12,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+52,"Associate Scientist, Product Development - Foodservice",Kraft Heinz,,"Mount Royal, QC, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+53,Principle Data Scientist,Metrica Recruitment,,"Surrey, BC, Canada",Feb 17,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Senior Data Scientist - Private Wealth,Bank of Montreal,,"Old Toronto, ON, M5X 1A3, Canada",Mar 02,,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,0
+55,Machine Learning Engineer - Applied Research Scientist,Reflection X,,"Overbrook, ON, K1G 3H5, Canada",Mar 04,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+56,"Senior Environmental Scientist, Terrestrial Ecology (Mid-Senior Level)",ERM,,"Vancouver, BC, Canada",Feb 19,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1
+57,Genomics Data Science Lead,DNAstack,,"Entertainment District, ON, M5J 2H5, Canada",Feb 23,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+58,Geospatial Scientist,Grasshopper Solar Corporation,,"Montreal, QC, Canada",Mar 03,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+59,Water Quality Engineer or Scientist,Teck Resources,,"Sparwood, BC, Canada",Feb 19,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1
+60,Fermentation Scientist,Hyasynth Bio,,"Montreal, QC, Canada",Feb 28,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Project Scientist,WSP,,"Calgary, AB, Canada",Feb 22,,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+62,Applied Scientist,Amazon Dev Centre Canada ULC,,"Vancouver, BC, Canada",Feb 24,,1,1,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+63,Behavioural Scientist,Cognizant,,"Toronto, ON, Canada",Feb 10,,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+64,Data Scientist,Ontario Medical Association,,"Toronto, ON, M5S 3C1, Canada",Mar 01,,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+65,Senior Data Scientist,Scotiabank,,"Toronto, ON, Canada",Feb 18,,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+66,Data Scientist - Tangerine,Scotiabank,,"Etobicoke, ON, M2H 0A1, Canada",Feb 18,,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0
+67,Research Scientist - Biologist,Canadian Nuclear Laboratories,,"Chalk River, ON, Canada",Feb 25,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+68,Sr. Data Scientist,TalentSphere Staffing Solutions,,"Vancouver, BC, V6E 4M3, Canada",Mar 05,,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+69,Scientist 1 Immunology,Charles River Laboratories,,"Laval, QC, H7V 4B3, Canada",Feb 17,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0
+70,"Scientist 1, Immunology (immunogenicity)",Charles River Laboratories,,"Senneville, QC, H9X, Canada",Feb 26,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+71,Scientist 1- Immunochemistry,Charles River Laboratories,,"Senneville, QC, H9X, Canada",Feb 22,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,"Associate Scientist, Cell Sciences",Amgen,,"Burnaby, BC, Canada",Feb 19,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+73,Social Scientist / Socio-economic Specialist,Aecom,,"London, ON, Canada",Feb 26,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+74,"Data Scientist, Supply Chain/Customer Profitability",Staples,,"Richmond Hill, ON, Canada",Mar 04,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Senior Environmental Engineer / Scientist,Wood plc,,"Brunskill, SK, S7H 5R3, Canada",Feb 24,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+76,Business Analyst/Data Analyst - Data Catalog & Data Governance,Cognizant,,"Mississauga, ON, Canada",Feb 24,,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+77,Senior Environmental Engineer / Scientist,Wood plc,,"Regina, SK, Canada",Feb 24,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+78,"Scientist II, Research & Development",Thermo Fisher Scientific,,"Mississauga, ON, Canada",Mar 03,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+79,"Data Architect, Technology Solutions",MNP,,"Toronto, ON, Canada",Mar 01,,1,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1,0,0,1,0,1,1,0,1,1,1
+80,Data Solution Architect,Onix,,"Toronto, ON, Canada",Feb 18,,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+81,Aquatic Informatics - Senior Data/Applied Scientist,Hach,,"Central Vancouver, BC, V6E 4M3, Canada",Feb 23,,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+82,Senior Data Scientist,Boeing,,"Gastown, BC, V6C 3R9, Canada",Mar 05,,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,1,1,0,0,0,1,0,1,0,1,0,0,1,1,0
+83,Product Development Scientist,NPAworldwide Recruitment Network,,"Wynford Drive, ON, M3C, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+84,Data Science Analyst,Loblaw,,"Brampton, ON, L6Y 5S5, Canada",Feb 24,,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+85,Junior/Intermediate Environmental Professional (Engineer or Scientist),Wood plc,,"Brunskill, SK, S7H 5R3, Canada",Feb 22,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+86,Junior/Intermediate Environmental Professional (Engineer or Scientist),Wood plc,,"Regina, SK, Canada",Feb 22,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+87,"Scientist, Senior (R&D), Abbott Point of Care (Ottawa)",Abbott,,"Nepean, ON, K2H 8V4, Canada",Mar 01,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+88,Data Engineer (Remote),"Sky Systems, Inc. (SkySys)",,"Montreal, QC, H1C 0B8, Canada",Feb 12,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+89,Senior Data Scientist,Hopper,,Canada,Feb 19,,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,Environmental Scientist,Golder Associates,,"Vancouver, BC, Canada",Feb 24,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+91,Terrain Scientist,Golder Associates,,"Edmonton, AB, Canada",Feb 24,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+92,Environmental Scientist/Field Technician,Parsons Corporation,,"Winnipeg, MB, Canada",Feb 14,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+93,Soil Scientist,Golder Associates,,"Edmonton, AB, Canada",Feb 23,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+94,Data Scientist,BMO Financial Group,,"Toronto, ON, Canada",Mar 02,,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,1
+95,Data Analytical Specialist/Scientist,Maarut,,"Toronto, ON, Canada",Mar 05,,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+96,Senior Applied Data Scientist,Best Buy Canada,,"Cameron, BC, V3J 0A7, Canada",Mar 04,,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0
+97,Senior Data Scientist,The Boeing Company,,"Vancouver, BC, Canada",Mar 08,,0,1,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,1,1,0,0,0,1,0,1,0,1,0,0,1,1,0
+98,"Software Engineer, Computational Scientist",Aurora,,"Sud-Ouest, QC, H4E 4H2, Canada",Feb 19,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+99,Data Scientist,Jagger,,"Toronto, ON, Canada",Feb 09,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+100,Data Scientist,Manifest Climate,,"Toronto, ON, Canada",Feb 11,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+101,"Scientist, Senior (R&D), Abbott Point of Care (Ottawa)",Abbott,,"Ottawa, ON, Canada",Mar 03,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+102,Environmental Engineer/Scientist,Golder Associates,,"Ottawa, ON, Canada",Feb 12,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+103,Data Scientist,Phreesia,,"Sud-Ouest, QC, H4E 4H2, Canada",Feb 08,,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0
+104,Soil Scientist,Golder,,"Calgary Trail North, AB, T6H 5R7, Canada",Feb 26,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+105,Senior Environmental Engineer / Scientist,Amec Foster Wheeler,,"Saskatoon, SK, Canada",Feb 26,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+106,Senior Environmental Engineer / Scientist,Amec Foster Wheeler,,"Regina, SK, Canada",Feb 25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+107,Junior Data Scientist,Vessi,,"Vancouver, BC, Canada",Feb 27,,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+108,Senior Data Scientist - Private Wealth,BMO Financial Group,,"Toronto, ON, Canada",Mar 02,,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,0
+109,Environmental Scientist,Golder,,"Gastown, BC, V6B 1E4, Canada",Feb 26,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+110,Senior Data Scientist,Axiom Zen,,"Vancouver, BC, Canada",Feb 26,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,1,1,0
+111,Data Scientist (Senior Economist),Farm Credit Canada,,"Regina, SK, Canada",Feb 18,,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+112,Terrain Scientist,Golder,,"Calgary Trail North, AB, T6H 5R7, Canada",Feb 26,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+113,Customer Facing Data Scientist,DataRobot,,"Montreal, QC, Canada",Feb 12,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0
+114,"Scientist, Quantum Engineering Solutions Intern",Keysight Technologies,,"Saint-Laurent, QC, H4T 1C8, Canada",Mar 04,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+115,Senior Mobile Developer - iOS (Swift),BrainFinance,,"Montreal, QC, Canada",Mar 05,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+116,Junior/Intermediate Environmental Professional (Engineer or Scientist),Amec Foster Wheeler,,"Saskatoon, SK, Canada",Feb 24,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+117,Senior Mobile Developer - Android (Kotlin),BrainFinance,,"Montreal, QC, Canada",Mar 05,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+118,Junior/Intermediate Environmental Professional (Engineer or Scientist),Amec Foster Wheeler,,"Regina, SK, Canada",Feb 24,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+119,PD Scientist,KNG Technical Inc.,,"Toronto, ON, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+120,Jr Data Scientist Assistant - PAID STUDENT INTERNSHIP,Qode Social,,"Etobicoke, ON, M2N 0G3, Canada",Feb 19,,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+121,Data & Applied Scientist,Microsoft,,"Vancouver, BC, Canada",Mar 04,,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+122,Senior Data Scientist,BDO,,"Greater Toronto Area, ON, Canada",Mar 01,,1,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+123,"Medical Scientist, HIV (Manitoba, Saskatchewan and the Atlantic",Gilead Science,,"Ontario, Canada",Feb 17,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+124,Principal Scientist,Emergent BioSolutions,,"Winnipeg, MB, R3T 5Y3, Canada",Feb 13,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+125,Machine Learning Scientist,Chisel AI,,"Chinatown, ON, M5S 0A2, Canada",Mar 04,,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+126,Data/AI Scientist - Spécialiste données et intelligence artificielle,Paradigm,,"Montreal, QC, H3B 2E3, Canada",Mar 06,,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Analytics Engineer,Maple,,"Entertainment District, ON, M5J 2H5, Canada",Feb 23,,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+128,"Scientist / Engineer, Matrix Biology",STEMCELL Technologies,,"Chinatown, BC, V6A 4G5, Canada",Feb 23,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+129,"Assistant Scientist II, Bioanalytics",Emergent BioSolutions,,"Winnipeg, MB, R3T 5Y3, Canada",Feb 15,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+130,Environmental Science Co-Op / Intern,"Gannett Fleming, Inc.",,"Toronto, ON, Canada",Feb 11,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+131,"Assistant Scientist II, Bioanalytics",Emergent BioSolutions,,"Winnipeg, MB, R3T 5Y3, Canada",Feb 11,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+132,Data & Applied Scientist 2,Microsoft,,"Vancouver, BC, Canada",Feb 19,,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+133,Data & Applied Scientist II,Microsoft,,"Vancouver, BC, Canada",Feb 19,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+134,Emergency Response - Junior Environmental Engineer or Scientist,Ghd,,"Waterloo, ON, Canada",Feb 25,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+135,Senior Azure Cloud Architect,ivy group inc,,"Overbrook, ON, K1G 3H5, Canada",Feb 26,,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,1,1,0,0,1,0,1,1,1,0,1,1,0,1,0
+136,Director of Data Science,Blockthrough,,"Toronto, ON, Canada",Mar 04,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+137,Junior Test Engineer,ATTAbotics,,"Calgary, AB, Canada",Mar 02,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+138,Data Scientist,Mosaic,,"Regina, SK, Canada",Feb 09,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0
+139,Senior Manager - Analytics and Reporting,Bank of Montreal,,"Ville-Marie, QC, H5A 1K6, Canada",Feb 10,,1,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1
+140,Histology Technician,Charles River Laboratories,,"Senneville, QC, H9X, Canada",Feb 24,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,POST DOC - Applied Physics,Canadian Nuclear Laboratories,,"Chalk River, ON, Canada",Feb 17,,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+142,Senior Data scientist,National Bank Financial Group,,"Point-Saint-Charles, QC, H3K 2N2, Canada",Feb 28,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,Lead Data Scientist,firstagency.com,,"Woodfield, ON, N6B 1T6, Canada",Feb 12,,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+144,Ingénieur de données /Data Engineer,Belcan,,"Longueuil, QC, Canada",Feb 11,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+145,Software Development Engineer,"Amazon Web Services Canada, In",,"Toronto, ON, Canada",Feb 25,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+146,Applied AI Scientist II,Bentley Systems,,"Quebec City, QC, G1E 3L1, Canada",Feb 24,,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+147,"Manager, Financial Pricing Analytics",Scotiabank,,"Toronto, ON, M5C 2W1, Canada",Feb 16,,0,1,1,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+148,Snr. Manager Advanced Analytics,PepsiCo,,"Mississauga, ON, Canada",Mar 02,,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+149,Senior Technical Recruiter (ML/AI),ServiceNow,,"Montreal, QC, Canada",Feb 22,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+150,"Scientist, Fermentation R&D",Willow Biosciences,,"Burnaby, BC, Canada",Feb 12,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+151,Junior Environmental Engineer,Golder Associates,,"Terrace, BC, Canada",Mar 03,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+152,Contaminated Sites Engineer,Golder Associates,,"Vancouver, BC, Canada",Feb 24,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1
+153,Senior Remediation Engineer Specialist,Golder Associates,,"Terrace, BC, Canada",Feb 26,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1
+154,Research Technician II (Formulation Chemistry),Terramera,,"Vancouver, BC, Canada",Mar 04,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+155,Junior Environmental Engineer,Golder,,"Lower Ten Oaks, BC, V2S 5P1, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+156,Contaminated Sites Engineer,Golder,,"Gastown, BC, V6B 1E4, Canada",Feb 26,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1
+157,Research Operations Lead,Corteva,,"Georgetown, ON, Canada",Feb 17,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+158,Senior Remediation Engineer Specialist,Golder,,"Lower Ten Oaks, BC, V2S 5P1, Canada",Feb 27,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1
+159,Senior Manager - Analytics and Reporting,BMO Financial Group,,"Montreal, QC, Canada",Feb 11,,1,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1
+160,Lead Test Engineer (Test Automation),ATTAbotics,,"Calgary, AB, Canada",Mar 01,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+161,Senior Machine Learning Engineer,Workday,,"Vancouver, BC, Canada",Mar 02,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,Junior Technician - Contaminated Site Assessment and Remediation,Ghd,,"Ottawa, ON, Canada",Feb 13,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+163,"Product Designer, Growth",Clio,,"Burnaby, BC, Canada",Mar 02,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+164,"Research Coordinator (Non Clinical), Infectious Diseases",nshealth.ca,,"Halifax, NS, B3H 2Y9, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+165,Research Engineer - HCI Platform Architecture,Facebook,,"Toronto, ON, Canada",Mar 05,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+166,"Research Coordinator (Non-Clinical), Infectious Diseases RSH",nshealth.ca,,"Halifax, NS, B3H 2Y9, Canada",Mar 05,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+167,Applications Engineer (Remote),ATTAbotics,,"Toronto, ON, Canada",Feb 12,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+168,IT Support Specialist,ATTAbotics,,"Calgary, AB, Canada",Feb 12,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+169,Robot Technician,ATTAbotics,,"Calgary, AB, Canada",Feb 23,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

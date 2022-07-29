@@ -1,0 +1,34 @@
+,job_titles,companies,company_ratings,locations,post_dates,Salary,Excel,Python,R,Java,Scala,C/C++,MATLAB,SAS,SQL/databases,Oracle,SPSS,Machine Learning,Data Mining/Analytics,Visualisation,Big Data,AWS Cloud,Jason,xml,Azure,Google Cloud,IBM,Operations research,DevOps,Git,presentation,management,agile,SDLC,decision making,problem solving,project_management,leadership,consulting
+0,Data Scientist,Corel,3.6,"Ontario, CA??",4d,"Estimated: $130,000 - $170,000 a year",1,0,1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+1,Data Scientist,City of Hope,3.8,"Duarte, CA??",8d,"Estimated: $87,000 - $120,000 a year",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+2,Data Engineer I,Mercury Insurance Group,3.6,"Brea, CA??",,"Estimated: $120,000 - $170,000 a year",1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+3,Remote Data Scientist 1 Year Contract Position,Mercury Insurance Group,3.6,"Brea, CA??",,$80 - $100 an hour,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+4,"2021 Summer Internship: Transmission & Distribution: Computer Science, Data Analytics and Statistics Majors",Mercury Insurance Group,3.6,"Brea, CA??",8d,"Estimated: $37,000 - $51,000 a year",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Senior Data Scientist - Remote,"DUFF AND PHELPS, LLC",3.4,"Pomona, CA??",Today,"Estimated: $130,000 - $170,000 a year",0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6,Data Scientist (Advisor),Recruiting for Good,,"Anaheim, CA??",,"Estimated: $110,000 - $150,000 a year",1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+7,Data Scientist,Southern California Edison,3.9,"Pomona, CA??",,"Estimated: $140,000 - $170,000 a year",1,1,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+8,Data Scientist,Beckman Coulter Diagnostics,3.7,"Brea, CA??",,"Estimated: $120,000 - $160,000 a year",0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+9,Data Scientist,City of Hope,3.8,"Irwindale, CA??",,"Estimated: $150,000 - $190,000 a year",0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+10,Senior Data Scientist,Jazz Pharma,3.5,California??,,"Estimated: $100,000 - $140,000 a year",1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,Machine Learning/ Artificial Intelligence Developer,City of Hope,3.8,"Duarte, CA??",3d,"$94,000 - $130,000 a year",0,1,1,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Senior Business and Data Analyst - Office of UG Registrar,Southern California Edison,3.9,"Pomona, CA??",8d,$31 - $40 an hour,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+13,Sr. Data Analyst - Insurance Pricing Specialist,INDEX FRESH INC,2.3,"Riverside, CA??",,"$80,000 - $90,000 a year",1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+14,Statistician I,Blizzard Entertainment,4,"Irvine, CA??",,"Estimated: $66,000 - $88,000 a year",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+15,Distinguished Data Scientist,Southern California Edison,3.9,"Rosemead, CA??",9d,"Estimated: $160,000 - $200,000 a year",0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0
+16,Senior Data Analyst,XPO Logistics,3.2,"Bloomington, CA??",,"Estimated: $89,000 - $120,000 a year",1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+17,"Data Analyst, Sr. Product",Moneza Inc,,United States??,,"Estimated: $110,000 - $160,000 a year",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+18,Sr. Data Analyst - Commercial Operations,Global Pharmatek,,United States??,8d,"Estimated: $110,000 - $150,000 a year",1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+19,Statistician,eJMexico,,"Orange, CA??",,"Estimated: $45,000 - $61,000 a year",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+20,"Sr. Data Analyst, Software Developer - Energy",Illumination Works,2.5,United States??,4d,"Estimated: $100,000 - $130,000 a year",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+21,"Senior Data Analyst, Diablo Immortal",Kaygen,3,"Orange, CA??",,"Estimated: $120,000 - $170,000 a year",1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+22,Assistant Pricing Analytics Manager / Predictive Modeler,Translational Drug Development (TD2),,United States??,,"Estimated: $100,000 - $130,000 a year",1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+23,"Lead Data Scientist (Genomics, Machine Learning)",Azusa Pacific University,4.2,"Azusa, CA??",,"Estimated: $140,000 - $190,000 a year",0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+24,Lead Data Scientist,Mercury Insurance Group,3.6,"Brea, CA??",,"Estimated: $89,000 - $120,000 a year",0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0
+25,Senior Data Analyst,Public Health Institute,4.1,"Monrovia, CA??",,"Estimated: $140,000 - $200,000 a year",1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+26,"Enterprise Risk & Audit Data Scientist, Senior Advisor",Verizon,3.9,"Irvine, CA??",,"Estimated: $100,000 - $130,000 a year",1,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+27,Field Sales Engineer - Vision AI (Orange Co.),Envista Holdings,,"Brea, CA??",,"Estimated: $78,000 - $110,000 a year",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+28,"Senior Data Analyst, Casino Compliance",PharmaOut,,United States??,,"Estimated: $140,000 - $190,000 a year",1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,"Senior Manager, Analytics & Data Science","Intelitrac, INC",1.6,United States??,,"Estimated: $93,000 - $130,000 a year",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+30,Compliance Statistician Advisor,Southern California Edison,3.9,"Pomona, CA??",11d,"Estimated: $160,000 - $210,000 a year",1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Post-doctoral Fellow-Data Science in Radiology,"Mercury Insurance Services, LLC",,"Brea, CA??",,,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+32,Senior Data Solutions Architect,Beckman Coulter Diagnostics,3.7,"Brea, CA??",,,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0
