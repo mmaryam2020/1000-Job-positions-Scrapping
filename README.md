@@ -16,10 +16,13 @@ We performed **hierarchical clustering of skills** on web-scraping results.
 ![Image](Images/ProgrammingSkills.png)
 
 **Business Skills in-demand**
+
 ![Image](Images/BusinessSkills.png)
 
 **Jobs with same in-demand**
+
 ![Image](Images/ClustringJobs.png)
 
 **Skills in same clusters**
+
 ![Image](Images/ClustringSkills.png)
