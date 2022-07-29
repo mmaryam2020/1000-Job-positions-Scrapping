@@ -9,20 +9,18 @@ We performed **hierarchical clustering of skills** on web-scraping results.
 
 - Skills that co-occur in multiple job postings end up in the same cluster
 - As the frequency of co-occurrences of a pair of skills increases, the clusters in which skills are assigned become closer
+![Image](Images/ClustringSkills.png)
 
 
-**Prgramming Skills in-demand**
+## Prgramming Skills in-demand
 
 ![Image](Images/ProgrammingSkills.png)
 
-**Business Skills in-demand**
+## Business Skills in-demand
 
 ![Image](Images/BusinessSkills.png)
 
-**Jobs with same in-demand**
+## Jobs with same in-demand
 
 ![Image](Images/ClustringJobs.png)
 
-**Skills in same clusters**
-
-![Image](Images/ClustringSkills.png)
