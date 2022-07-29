@@ -20,7 +20,7 @@ We performed **hierarchical clustering** of skills on web-scraping results.
 
 ![Image](Images/BusinessSkills.png)
 
-## Jobs with same in-demand
+## Jobs clustring based on skills
 
 ![Image](Images/ClustringJobs.png)
 
