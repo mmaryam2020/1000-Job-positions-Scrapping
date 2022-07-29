@@ -11,3 +11,15 @@ We performed **hierarchical clustering of skills** on web-scraping results.
 - As the frequency of co-occurrences of a pair of skills increases, the clusters in which skills are assigned become closer
 
 
+**Prgramming Skills in-demand**
+
+![Image](Images/ProgrammingSkills.png)
+
+**Business Skills in-demand**
+![Image](Images/BusinessSkills.png)
+
+**Jobs with same in-demand**
+![Image](Images/ClustringJobs.png)
+
+**Skills in same clusters**
+![Image](Images/ClustringSkills.png)
